@@ -5,16 +5,23 @@ git init --->solo se utiliza un sola vez , para crear una carpeta oculta git
 git add.----->
 git commind -m ---->comentarios
 rm -rf git
-git branch -M main -------> creamos una rama  apartir de la ram principal
+git branch -M main -------> creamos una rama  apartir de la rama principal
 
+git push -u origin main
 /**Solo la primera vez 
 echo "# demo0050" >> README.md
 git init
 git add README.md
 git commit -m "first commit" ----> crear un comentario con los cambios efectuados en el momento
 git branch -M main
+
 git remote add origin https://github.com/FranAguirreC/demo0050.git
 git push -u origin main
 **/
 
-si uno cambia de computador debe repetir todo el proceso para instalar git en la carpeta
+-si uno cambia de computador debe repetir todo el proceso para instalar git en la carpeta
+
+*githut jamas va subir carpetas vacias 
+
+
+/** Conflcto con repositorios **/
