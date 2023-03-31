@@ -1,0 +1,17 @@
+/***Comandos basico de git***/
+
+git init --->solo se utiliza un sola vez , para crear una carpeta oculta git
+
+git add.----->
+git commind -m ---->comentarios
+rm -rf git
+
+/**Solo la primera vez 
+echo "# demo0050" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/FranAguirreC/demo0050.git
+git push -u origin main
+**/
