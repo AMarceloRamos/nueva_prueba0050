@@ -16,3 +16,5 @@ git branch -M main
 git remote add origin https://github.com/FranAguirreC/demo0050.git
 git push -u origin main
 **/
+
+si uno cambia de computador debe repetir todo el proceso para intalar git en ña carpeta
