@@ -5,6 +5,7 @@ git init --->solo se utiliza un sola vez , para crear una carpeta oculta git
 git add.----->
 git commind -m ---->comentarios
 rm -rf git
+git branch -M main -------> creamos una rama  apartir de la ram principal
 
 /**Solo la primera vez 
 echo "# demo0050" >> README.md
