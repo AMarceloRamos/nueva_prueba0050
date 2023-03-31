@@ -6,6 +6,10 @@ git add.----->
 git commind -m ---->comentarios
 rm -rf git
 git branch -M main -------> creamos una rama  apartir de la ram principal
+$ git checkout Marcelo --------> para cambiarme a la nueva rama creada
+
+git checkout -b Ramos ----- > crea una nueva rama y te traslada directamente a esa nueva rama de forma instantanea
+git branch -d RAMA-A-ELIMINAR ------> Eliminar una rama 
 
 /**Solo la primera vez 
 echo "# demo0050" >> README.md
